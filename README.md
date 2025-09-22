@@ -1,8 +1,7 @@
 # Netflix-PowerBI-Dashboard
-Interactive Power BI dashboard visualizing Netflix's extensive library of movies and TV shows with insights on content distribution, ratings, release trends, durations, and geographic origins.
 ## Overview
 
-This project presents an interactive Power BI dashboard focused on Netflix's extensive library of movies and TV shows. With over 8000+ titles available on their platform, the dashboard offers insights into key details such as cast, directors, ratings, release year, and duration. 
+Interactive Power BI dashboard visualizing Netflix's extensive library of movies and TV shows with insights on content distribution, ratings, release trends, durations, and geographic origins.
 
 ## Preview
 
